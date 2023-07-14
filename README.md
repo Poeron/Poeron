@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Poeron
-- 🌱 I’m currently learning python
-- 📫 You can text me on discord : ronktkar#3041
+- 🌱 I’m currently learning React Native
+- 📫 You can text me on discord : ronktkar
 
 <!---
 Poeron/Poeron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
