@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Poeron
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning JavaScript
 - 📫 You can text me on discord : ronktkar
 
 <!---
