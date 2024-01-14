@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Poeron</h1>
 <h3 align="center">A student who loves algorithms</h3>
 
-- 🌱 I’m currently learning **Cyber Security with Garanti BBVA Technology Security Academy Bootcamp**
+- 🌱 I’m currently learning **Cyber Security**
 
-- 💬 Ask me about **C++, C# and algorithms**
+- 💬 Ask me about **C++, C#, Python and algorithms**
 
-- 📫 How to reach me **oktemronay@proton.me**
+- 📫 How to reach me **oktemronay@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
