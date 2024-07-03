@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Poeron</h1>
 <h3 align="center">A student who loves algorithms</h3>
 
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 I’m currently learning **.NET Core 8 and React.js**
 
 - 💬 Ask me about **C++, C#, Python and algorithms**
 
