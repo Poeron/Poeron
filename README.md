@@ -19,7 +19,3 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,py,ts,js,cs,git,github,docker,kali,npm,obsidian,postgres,sqlite,express,html,linux,md,mysql,nextjs,nodejs,postman,vite,react,visualstudio,vscode,sublime,bash,bootstrap,arduino,django,dotnet&perline=14" />
   </a>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poeron&show_icons=true&locale=en&layout=compact" alt="poeron" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poeron&show_icons=true&locale=en" alt="poeron" /></p>
