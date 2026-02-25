@@ -2,11 +2,7 @@
 	<img src = "https://komarev.com/ghpvc/?username=Poeron&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
 <h1 align="center">Hi 👋, I'm Poeron</h1>
-<h3 align="center">A Back-end developer</h3>
-
-- 🌱 I’m currently learning **Next.js**
-
-- 💬 Ask me about **C++, C#, Python and algorithms**
+<h3 align="center">A Fullstack developer</h3>
 
 - 📫 How to reach me **oktemronay@gmail.com**
 
